@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.idea/*
+.vscode
+*.sublime*
+npm-debug.*
+
+app/images/accomodate
+app/fonts/accomodate
+dist/
+node_modules/
+package-lock.json
